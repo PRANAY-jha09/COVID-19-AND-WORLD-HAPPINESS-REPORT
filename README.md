@@ -1,4 +1,4 @@
-ou will work with two datasets:
+ will work with two datasets:
 COVID-19 dataset (e.g., daily confirmed cases, deaths, recoveries by country and date)
 
 
